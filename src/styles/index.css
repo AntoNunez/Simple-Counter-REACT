@@ -1,4 +1,35 @@
-
+body {
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/319/403/821/man-made-stopwatch-wallpaper-preview.jpg)
+    
+}
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.contenedor{
+    background-color:rgba(255, 255, 255, 0);
+    color:rgba(11, 1, 1, 0.821);
+    margin: auto;
+    font-weight: 700;
+    text-align: center;
+    
+    
+  }
+  
+  .contenedor{
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
+  
+  .contenedor div{
+    font-size: 60px;
+    display: inline-flex;
+    margin:30px;
+    
+  }
+  
 /* 
 
     You can write your own styles here...
